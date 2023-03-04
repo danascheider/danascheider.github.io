@@ -1,6 +1,6 @@
 import { ReactElement } from 'react'
 import { Routes, Route } from 'react-router-dom'
-import HomePage from '../pages/homePage/homepage'
+import HomePage from '../pages/homePage/homePage'
 import DashboardPage from '../pages/dashboardPage/dashboardPage'
 import paths from './paths'
 
